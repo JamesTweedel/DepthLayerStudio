@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DepthLayer Studio/1.0.0": {
+        "runtime": {
+          "DepthLayer Studio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DepthLayer Studio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
